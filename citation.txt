@@ -1,0 +1,6 @@
+@inproceedings{REPO-086,
+    author = "Samuel, David and Barnes, Jeremy and Kurtz, Robin and Oepen, Stephan and Ovrelid, Lilja and Velldal, Erik",
+    booktitle = "Annual Meeting of the Association for Computational Linguistics",
+    title = "{}",
+    year = "2022"
+}
